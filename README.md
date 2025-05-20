@@ -23,6 +23,21 @@ We specialize in a broad spectrum of services and are eager to tackle challenges
 
 ---
 
+## 🛠️ Our Toolbox
+
+- **Languages & Frameworks:**  
+  Python, JavaScript, TypeScript, PHP, Dart  
+  Laravel, Next.js, React, Flutter, Node.js, Frappe  
+- **Databases:**  
+  MongoDB, PostgreSQL, MySQL  
+- **APIs:**  
+  REST, GraphQL, and custom API development  
+- **DevOps & Cloud:**  
+  Docker, Kubernetes, GitHub Actions, AWS, Azure, Google Cloud  
+- **...and many more!**
+
+---
+
 ## 🌟 Why Intencode?
 - **Cutting-edge Tech:** We’re always exploring the latest frameworks, languages, and platforms.
 - **Collaborative Team:** Creativity, curiosity, and collaboration drive our culture.
@@ -41,15 +56,6 @@ We specialize in a broad spectrum of services and are eager to tackle challenges
 | MobileHub  | Cross-platform mobile solutions                  | Building  |
 
 *(More projects coming soon!)*
-
----
-
-## 🛠️ Our Toolbox
-
-- **Languages:** Python, JavaScript, TypeScript, Dart, SQL, and more
-- **Frameworks:** React, Flutter, Node.js, Frappe, TensorFlow, PyTorch
-- **DevOps:** Docker, Kubernetes, GitHub Actions, CI/CD
-- **Cloud:** AWS, Azure, Google Cloud
 
 ---
 
