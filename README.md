@@ -1,6 +1,6 @@
 # Intencode India Software
 
-Welcome to the official GitHub profile of **Intencode India Software**.
+Welcome to the official GitHub profile of **Intencode India**.
 
 ## 🚀 About Us
 Intencode India Software is committed to innovation and excellence across multiple technology domains. We specialize in developing solutions for enterprise, AI, education, fintech, mobile, and more.
