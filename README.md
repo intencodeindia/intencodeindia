@@ -1,6 +1,6 @@
 # 👋 Welcome to Intencode India!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadsts9901&label=Profile%20views&color=0e75b6&style=flat" alt="intencodeindia" /></p>
-<p align="left"> <img src="https://user-badge.committers.top/pakistan/ahadsts9901.svg" alt="intencodeindia" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=intencodeindia&label=Profile%20views&color=0e75b6&style=flat" alt="intencodeindia" /></p>
+<p align="left"> <img src="https://user-badge.committers.top/india/intencodeindia.svg" alt="intencodeindia" /></p>
 ![Visitors](https://komarev.com/ghpvc/?username=intencodeindia&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/intencodeindia?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/intencodeindia/ERPnext?style=for-the-badge)
